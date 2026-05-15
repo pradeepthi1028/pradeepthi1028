@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pradeepthi</h1>
+<h3 align="center">Computer Science Undergraduate ✨</h3>
 
-<!--
-**pradeepthi1028/pradeepthi1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Building Projects • 🌱 Continuous Learner • 🚀 Growing Step by Step
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 About Me
+I’m interested in software development, web technologies, and building useful projects  
+• I’m currently learning Computer Science & Business Systems (CSBS) at RVR & JC College of Engineering  
+• I enjoy exploring new technologies and improving my technical skills    
+• How to reach me: LinkedIn - (https://www.linkedin.com/in/samineni-pradeepthi-0368b62aa/)  
+• Open to learning, collaboration, and new opportunities  
+
