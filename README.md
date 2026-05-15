@@ -7,10 +7,10 @@
 
 ---
 
-## 🌷 About Me
+## 👩🏻‍🎓✨ About Me
 I’m interested in software development, web technologies, and building useful projects  
-• I’m currently learning Computer Science & Business Systems (CSBS) at RVR & JC College of Engineering  
-• I enjoy exploring new technologies and improving my technical skills    
-• How to reach me: LinkedIn - (https://www.linkedin.com/in/samineni-pradeepthi-0368b62aa/)  
+• I’m currently pursuing Computer Science & Business Systems (CSBS) at RVR & JC College of Engineering  
+• Passionate about exploring emerging technologies and strengthening my technical skills 
 • Open to learning, collaboration, and new opportunities  
+• How to reach me: LinkedIn - (https://www.linkedin.com/in/samineni-pradeepthi-0368b62aa/)  
 
